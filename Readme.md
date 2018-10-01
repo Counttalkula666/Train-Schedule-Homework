@@ -1,8 +1,5 @@
 # Train Activity Homework
 
-* item 1
-* item 2
+* A basic app for scheduling trains using Javascript, HTML, Moment.js
 
-
-
-# more text
+Still in progress
